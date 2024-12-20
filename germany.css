@@ -1,0 +1,51 @@
+/* Общие стили */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+    color: #333;
+    background-image: url('https://img-fotki.yandex.ru/get/9930/97833783.8d3/0_f3650_bbd31f91_XXXL.jpg');
+}
+
+/* Контейнер */
+.container {
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    
+}
+
+/* Секции */
+.section {
+    margin-bottom: 20px;
+}
+
+h1, h2 {
+    color: #d63333;
+    text-align: center;
+    font-size: 28px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+p {
+    font-size: 16px;
+    text-align: justify;
+    margin-bottom: 10px;
+}
+
+/* Подсветка текста */
+.highlight {
+    font-weight: bold;
+    background-color: #ffd8a8;
+    padding: 2px 4px;
+    border-radius: 3px;
+}

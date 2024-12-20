@@ -1,0 +1,12 @@
+.ytu{
+    border-radius: 50px ;
+    height: 200;
+}
+
+.blue-card{
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png");
+    transition: 0.3s ease-in;
+}
+.blue-card:hover{
+    background-color: blueviolet;
+}
